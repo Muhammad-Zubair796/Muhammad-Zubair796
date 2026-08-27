@@ -69,8 +69,7 @@
 
 ## 💻 What I Can Help With
 
-```javascript
-const muhammadZubair = {
+<pre><code>const muhammadZubair = {
   focus: [
     "Platform Engineering", 
     "DevOps & DevSecOps", 
@@ -88,12 +87,12 @@ const muhammadZubair = {
     "Deploying, scaling, and containerizing AI/LLM applications",
     "Infrastructure as Code (IaC) and GitOps implementations"
   ]
-};
-📊 GitHub Analytics
-<div align="center">
-![alt text](https://github-readme-stats.vercel.app/api?username=Muhammad-Zubair796&show_icons=true&theme=tokyonight&hide_border=true)
-<br/>
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zubair796&layout=compact&theme=tokyonight&hide_border=true)
-</div>
-```
+};</code></pre>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zubair796&show_icons=true&theme=tokyonight&hide_border=true" alt="Zubair's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zubair796&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
