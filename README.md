@@ -89,15 +89,4 @@
   ]
 };</code></pre>
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Muhammad-Zubair796">
-    <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zubair796&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Zubair's GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Muhammad-Zubair796">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zubair796&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
-  </a>
-</p>
