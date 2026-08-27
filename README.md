@@ -89,6 +89,7 @@ const muhammadZubair = {
     "Infrastructure as Code (IaC) and GitOps implementations"
   ]
 };
+```
 <br/>
 📊 GitHub Analytics
 <div align="center">
