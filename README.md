@@ -89,14 +89,11 @@ const muhammadZubair = {
     "Infrastructure as Code (IaC) and GitOps implementations"
   ]
 };
-## 📊 GitHub Analytics
-
+📊 GitHub Analytics
 <div align="center">
-  
-  [![Zubair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Zubair796&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Muhammad-Zubair796)
-  
-  <br/>
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zubair796&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Muhammad-Zubair796)
-
+![alt text](https://github-readme-stats.vercel.app/api?username=Muhammad-Zubair796&show_icons=true&theme=tokyonight&hide_border=true)
+<br/>
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zubair796&layout=compact&theme=tokyonight&hide_border=true)
 </div>
+```
+
